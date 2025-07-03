@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **etrrteetr/etrrteetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+# etrrteetr
+
+![6IOM6Lip](https://img.shields.io/badge/6IOM6Lip-blue)
+
+<div align="left">
